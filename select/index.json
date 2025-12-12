@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "胸ぐら",
+  "base_artist": "さとう。",
+  "createdAt": "2025-12-12T15:24:01.062585Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "胸ぐら",
+      "artist": "さとう。",
+      "has_synced": false,
+      "path": "select/pl_01_胸ぐら_さとう。.txt"
+    }
+  ]
+}
